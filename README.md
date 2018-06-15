@@ -4,4 +4,4 @@ I worked as a remote Course Assistant for the Harvard Kennedy School Python Pilo
 
 Please work on the problems on your own before looking up the solutions. These are meant as a way for people to improve on their programming and algorithmic thinking skills.
 
-The format of the files is as follows: problem_psetnumber_problemnumber.py
+The format of the files is as follows: phil_psetnumber_problemnumber.py
